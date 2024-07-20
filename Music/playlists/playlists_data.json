@@ -1,0 +1,36 @@
+[
+    {
+        "name": "test2024",
+        "songs": [
+            {
+                "author": "Lena Raine",
+                "source": "https://www.youtube.com/watch?v=hb5TsZcAiJQ",
+                "title": "Left to Bloom",
+                "streamLink": "https://github.com/TheByteVault/ZCByteVault/raw/main/Music/playlists/test2024/LefttoBloomhb5TsZcAiJQ.m4a"
+            },
+            {
+                "author": "Lena Raine",
+                "source": "https://www.youtube.com/watch?v=Y5KFnQYCdsk",
+                "title": "One More Day",
+                "streamLink": "https://github.com/TheByteVault/ZCByteVault/raw/main/Music/playlists/test2024/OneMoreDayY5KFnQYCdsk.m4a"
+            },
+            {
+                "author": "Kumi Tanioka - Topic",
+                "source": "https://www.youtube.com/watch?v=k79dMVVmvA8",
+                "title": "Comforting Memories",
+                "streamLink": "https://github.com/TheByteVault/ZCByteVault/raw/main/Music/playlists/test2024/ComfortingMemoriesk79dMVVmvA8.m4a"
+            }
+        ]
+    },
+    {
+        "name": "test22025",
+        "songs": [
+            {
+                "author": "Kumi Tanioka - Topic",
+                "source": "https://www.youtube.com/watch?v=k79dMVVmvA8",
+                "title": "Comforting Memories",
+                "streamLink": "https://github.com/TheByteVault/ZCByteVault/raw/main/Music/playlists/test22025/ComfortingMemoriesk79dMVVmvA8.m4a"
+            }
+        ]
+    }
+]
