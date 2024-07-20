@@ -1,35 +1,508 @@
 [
     {
-        "name": "test2024",
+        "name": "Minecraft Radio",
         "songs": [
             {
                 "author": "Lena Raine",
                 "source": "https://www.youtube.com/watch?v=hb5TsZcAiJQ",
                 "title": "Left to Bloom",
-                "streamLink": "https://github.com/TheByteVault/ZCByteVault/raw/main/Music/playlists/test2024/LefttoBloomhb5TsZcAiJQ.m4a"
+                "streamLink": "https://github.com/TheByteVault/ZCByteVault/raw/main/Music/playlists/MinecraftRadio/LefttoBloomhb5TsZcAiJQ.m4a"
             },
             {
                 "author": "Lena Raine",
                 "source": "https://www.youtube.com/watch?v=Y5KFnQYCdsk",
                 "title": "One More Day",
-                "streamLink": "https://github.com/TheByteVault/ZCByteVault/raw/main/Music/playlists/test2024/OneMoreDayY5KFnQYCdsk.m4a"
+                "streamLink": "https://github.com/TheByteVault/ZCByteVault/raw/main/Music/playlists/MinecraftRadio/OneMoreDayY5KFnQYCdsk.m4a"
             },
             {
                 "author": "Kumi Tanioka - Topic",
                 "source": "https://www.youtube.com/watch?v=k79dMVVmvA8",
                 "title": "Comforting Memories",
-                "streamLink": "https://github.com/TheByteVault/ZCByteVault/raw/main/Music/playlists/test2024/ComfortingMemoriesk79dMVVmvA8.m4a"
+                "streamLink": "https://github.com/TheByteVault/ZCByteVault/raw/main/Music/playlists/MinecraftRadio/ComfortingMemoriesk79dMVVmvA8.m4a"
+            },
+            {
+                "author": "Sully Orchestration",
+                "source": "https://www.youtube.com/watch?v=lHnHOJzJch4",
+                "title": "Minecraft - Sweden Orchestra",
+                "streamLink": "https://github.com/TheByteVault/ZCByteVault/raw/main/Music/playlists/MinecraftRadio/MinecraftSwedenOrchestralHnHOJzJch4.m4a"
+            },
+            {
+                "author": "The Blake Robinson Synthetic Orchestra",
+                "source": "https://www.youtube.com/watch?v=qCT37h1P9d4",
+                "title": "Minecraft - Mice on Venus Orchestra",
+                "streamLink": "https://github.com/TheByteVault/ZCByteVault/raw/main/Music/playlists/MinecraftRadio/MinecraftMiceonVenusOrchestraqCT37h1P9d4.m4a"
+            },
+            {
+                "author": "The Blake Robinson Synthetic Orchestra",
+                "source": "https://www.youtube.com/watch?v=BRr_V1JGbnE",
+                "title": "Minecraft - Sweden Orchestra - Video Game Orchestrations Vol 1",
+                "streamLink": "https://github.com/TheByteVault/ZCByteVault/raw/main/Music/playlists/MinecraftRadio/MinecraftSwedenOrchestraVideoGameOrchestrationsVol1BRrV1JGbnE.m4a"
+            },
+            {
+                "author": "LIMIT Chill & Ambient Music",
+                "source": "https://www.youtube.com/watch?v=xDTFKijRymw",
+                "title": "Minecraft Theme - Music | Full Soundtrack - Realistic Piano/Choir/String Beautiful Remix",
+                "streamLink": "https://github.com/TheByteVault/ZCByteVault/raw/main/Music/playlists/MinecraftRadio/MinecraftThemeMusicFullSoundtrackRealisticPianoChoirStringBeautifulRemixxDTFKijRymw.m4a"
+            },
+            {
+                "author": "Jurjen de Boer",
+                "source": "https://www.youtube.com/watch?v=OtBkUPLSGyM",
+                "title": "Minecraft: Wet Hands Orchestral REMASTERED Remix",
+                "streamLink": "https://github.com/TheByteVault/ZCByteVault/raw/main/Music/playlists/MinecraftRadio/MinecraftWetHandsOrchestralREMASTEREDRemixOtBkUPLSGyM.m4a"
+            },
+            {
+                "author": "The Blake Robinson Synthetic Orchestra",
+                "source": "https://www.youtube.com/watch?v=frgF90hMoVc",
+                "title": "Minecraft - Subwoofer Lullaby Orchestra",
+                "streamLink": "https://github.com/TheByteVault/ZCByteVault/raw/main/Music/playlists/MinecraftRadio/MinecraftSubwooferLullabyOrchestrafrgF90hMoVc.m4a"
+            },
+            {
+                "author": "InfernalEntertain",
+                "source": "https://www.youtube.com/watch?v=qq-RGFyaq0U",
+                "title": "C418 - Minecraft - Minecraft Volume Alpha",
+                "streamLink": "https://github.com/TheByteVault/ZCByteVault/raw/main/Music/playlists/MinecraftRadio/C418MinecraftMinecraftVolumeAlphaqqRGFyaq0U.m4a"
+            },
+            {
+                "author": "C418",
+                "source": "https://www.youtube.com/watch?v=NkS3XLy3ga4",
+                "title": "Key",
+                "streamLink": "https://github.com/TheByteVault/ZCByteVault/raw/main/Music/playlists/MinecraftRadio/KeyNkS3XLy3ga4.m4a"
+            },
+            {
+                "author": "InfernalEntertain",
+                "source": "https://www.youtube.com/watch?v=Gpd85y_iTxY",
+                "title": "C418 - Subwoofer Lullaby - Minecraft Volume Alpha",
+                "streamLink": "https://github.com/TheByteVault/ZCByteVault/raw/main/Music/playlists/MinecraftRadio/C418SubwooferLullabyMinecraftVolumeAlphaGpd85yiTxY.m4a"
+            },
+            {
+                "author": "InfernalEntertain",
+                "source": "https://www.youtube.com/watch?v=oGxQNQtnr6Q",
+                "title": "C418 - Living Mice - Minecraft Volume Alpha",
+                "streamLink": "https://github.com/TheByteVault/ZCByteVault/raw/main/Music/playlists/MinecraftRadio/C418LivingMiceMinecraftVolumeAlphaoGxQNQtnr6Q.m4a"
+            },
+            {
+                "author": "InfernalEntertain",
+                "source": "https://www.youtube.com/watch?v=DZ47H84Bc_Q",
+                "title": "C418 - Mice on Venus - Minecraft Volume Alpha",
+                "streamLink": "https://github.com/TheByteVault/ZCByteVault/raw/main/Music/playlists/MinecraftRadio/C418MiceonVenusMinecraftVolumeAlphaDZ47H84BcQ.m4a"
+            },
+            {
+                "author": "InfernalEntertain",
+                "source": "https://www.youtube.com/watch?v=4i0d6CPLSGo",
+                "title": "C418 - Dry Hands - Minecraft Volume Alpha",
+                "streamLink": "https://github.com/TheByteVault/ZCByteVault/raw/main/Music/playlists/MinecraftRadio/C418DryHandsMinecraftVolumeAlpha4i0d6CPLSGo.m4a"
+            },
+            {
+                "author": "C418",
+                "source": "https://www.youtube.com/watch?v=MSepOYJxB64",
+                "title": "Wet Hands",
+                "streamLink": "https://github.com/TheByteVault/ZCByteVault/raw/main/Music/playlists/MinecraftRadio/WetHandsMSepOYJxB64.m4a"
+            },
+            {
+                "author": "InfernalEntertain",
+                "source": "https://www.youtube.com/watch?v=UhWjWdlnmEw",
+                "title": "C418 - Clark - Minecraft Volume Alpha",
+                "streamLink": "https://github.com/TheByteVault/ZCByteVault/raw/main/Music/playlists/MinecraftRadio/C418ClarkMinecraftVolumeAlphaUhWjWdlnmEw.m4a"
+            },
+            {
+                "author": "InfernalEntertain",
+                "source": "https://www.youtube.com/watch?v=aBkTkxKDduc",
+                "title": "C418  - Sweden - Minecraft Volume Alpha",
+                "streamLink": "https://github.com/TheByteVault/ZCByteVault/raw/main/Music/playlists/MinecraftRadio/C418SwedenMinecraftVolumeAlphaaBkTkxKDduc.m4a"
+            },
+            {
+                "author": "C418",
+                "source": "https://www.youtube.com/watch?v=hduz9ZigCFY",
+                "title": "Beginning",
+                "streamLink": "https://github.com/TheByteVault/ZCByteVault/raw/main/Music/playlists/MinecraftRadio/Beginninghduz9ZigCFY.m4a"
+            },
+            {
+                "author": "NycrypticProject",
+                "source": "https://www.youtube.com/watch?v=8VY2RUyY0t4",
+                "title": "C418 - Ballad of the Cats (Minecraft Volume Beta)",
+                "streamLink": "https://github.com/TheByteVault/ZCByteVault/raw/main/Music/playlists/MinecraftRadio/C418BalladoftheCatsMinecraftVolumeBeta8VY2RUyY0t4.m4a"
+            },
+            {
+                "author": "NycrypticProject",
+                "source": "https://www.youtube.com/watch?v=Mj6jF7I2s10",
+                "title": "C418 - Taswell (Minecraft Volume Beta)",
+                "streamLink": "https://github.com/TheByteVault/ZCByteVault/raw/main/Music/playlists/MinecraftRadio/C418TaswellMinecraftVolumeBetaMj6jF7I2s10.m4a"
+            },
+            {
+                "author": "Lena Raine",
+                "source": "https://www.youtube.com/watch?v=HcvKHX6kK6M",
+                "title": "Rubedo",
+                "streamLink": "https://github.com/TheByteVault/ZCByteVault/raw/main/Music/playlists/MinecraftRadio/RubedoHcvKHX6kK6M.m4a"
+            },
+            {
+                "author": "Lena Raine",
+                "source": "https://www.youtube.com/watch?v=OuYA_siR8Hc",
+                "title": "Stand Tall",
+                "streamLink": "https://github.com/TheByteVault/ZCByteVault/raw/main/Music/playlists/MinecraftRadio/StandTallOuYAsiR8Hc.m4a"
+            },
+            {
+                "author": "Lena Raine",
+                "source": "https://www.youtube.com/watch?v=TzcwvQ0MDCo",
+                "title": "Ancestry",
+                "streamLink": "https://github.com/TheByteVault/ZCByteVault/raw/main/Music/playlists/MinecraftRadio/AncestryTzcwvQ0MDCo.m4a"
+            },
+            {
+                "author": "Lena Raine",
+                "source": "https://www.youtube.com/watch?v=uPM--9Gar60",
+                "title": "Wending",
+                "streamLink": "https://github.com/TheByteVault/ZCByteVault/raw/main/Music/playlists/MinecraftRadio/WendinguPM9Gar60.m4a"
+            },
+            {
+                "author": "Lena Raine",
+                "source": "https://www.youtube.com/watch?v=y-f8pEX1Q1M",
+                "title": "Infinite Amethyst",
+                "streamLink": "https://github.com/TheByteVault/ZCByteVault/raw/main/Music/playlists/MinecraftRadio/InfiniteAmethystyf8pEX1Q1M.m4a"
+            },
+            {
+                "author": "Kumi Tanioka - Topic",
+                "source": "https://www.youtube.com/watch?v=CG7bdkACNKM",
+                "title": "Floating Dream",
+                "streamLink": "https://github.com/TheByteVault/ZCByteVault/raw/main/Music/playlists/MinecraftRadio/FloatingDreamCG7bdkACNKM.m4a"
+            },
+            {
+                "author": "Kumi Tanioka - Topic",
+                "source": "https://www.youtube.com/watch?v=VSuIdgr66ho",
+                "title": "An Ordinary Day",
+                "streamLink": "https://github.com/TheByteVault/ZCByteVault/raw/main/Music/playlists/MinecraftRadio/AnOrdinaryDayVSuIdgr66ho.m4a"
+            },
+            {
+                "author": "Lena Raine",
+                "source": "https://www.youtube.com/watch?v=FMJoOTOBcwE",
+                "title": "Aerie",
+                "streamLink": "https://github.com/TheByteVault/ZCByteVault/raw/main/Music/playlists/MinecraftRadio/AerieFMJoOTOBcwE.m4a"
+            },
+            {
+                "author": "Aaron Cherof",
+                "source": "https://www.youtube.com/watch?v=Uu3dshFseaU",
+                "title": "Echo in the Wind",
+                "streamLink": "https://github.com/TheByteVault/ZCByteVault/raw/main/Music/playlists/MinecraftRadio/EchointheWindUu3dshFseaU.m4a"
+            },
+            {
+                "author": "Aaron Cherof",
+                "source": "https://www.youtube.com/watch?v=ec9dLqGOcg0",
+                "title": "A Familiar Room",
+                "streamLink": "https://github.com/TheByteVault/ZCByteVault/raw/main/Music/playlists/MinecraftRadio/AFamiliarRoomec9dLqGOcg0.m4a"
+            },
+            {
+                "author": "Aaron Cherof",
+                "source": "https://www.youtube.com/watch?v=TaXlw0OmSOg",
+                "title": "Bromeliad",
+                "streamLink": "https://github.com/TheByteVault/ZCByteVault/raw/main/Music/playlists/MinecraftRadio/BromeliadTaXlw0OmSOg.m4a"
+            },
+            {
+                "author": "Aaron Cherof",
+                "source": "https://www.youtube.com/watch?v=_lxjp54MMBg",
+                "title": "Crescent Dunes",
+                "streamLink": "https://github.com/TheByteVault/ZCByteVault/raw/main/Music/playlists/MinecraftRadio/CrescentDuneslxjp54MMBg.m4a"
+            },
+            {
+                "author": "Aaron Cherof",
+                "source": "https://www.youtube.com/watch?v=SLS9tUa2GXI",
+                "title": "Featherfall",
+                "streamLink": "https://github.com/TheByteVault/ZCByteVault/raw/main/Music/playlists/MinecraftRadio/FeatherfallSLS9tUa2GXI.m4a"
+            },
+            {
+                "author": "Aaron Cherof",
+                "source": "https://www.youtube.com/watch?v=CcAV71mXg_8",
+                "title": "Watcher",
+                "streamLink": "https://github.com/TheByteVault/ZCByteVault/raw/main/Music/playlists/MinecraftRadio/WatcherCcAV71mXg8.m4a"
+            },
+            {
+                "author": "Aaron Cherof",
+                "source": "https://www.youtube.com/watch?v=ray1Svv6Sl8",
+                "title": "Puzzlebox",
+                "streamLink": "https://github.com/TheByteVault/ZCByteVault/raw/main/Music/playlists/MinecraftRadio/Puzzleboxray1Svv6Sl8.m4a"
+            },
+            {
+                "author": "Kumi Tanioka - Topic",
+                "source": "https://www.youtube.com/watch?v=Y9menjGA86s",
+                "title": "komorebi",
+                "streamLink": "https://github.com/TheByteVault/ZCByteVault/raw/main/Music/playlists/MinecraftRadio/komorebiY9menjGA86s.m4a"
+            },
+            {
+                "author": "Lena Raine",
+                "source": "https://www.youtube.com/watch?v=TRY0tH78Tjk",
+                "title": "Endless",
+                "streamLink": "https://github.com/TheByteVault/ZCByteVault/raw/main/Music/playlists/MinecraftRadio/EndlessTRY0tH78Tjk.m4a"
+            },
+            {
+                "author": "EMBRR",
+                "source": "https://www.youtube.com/watch?v=v1wMBrkUEFE",
+                "title": "Mice On Venus but make it *E X T R A* nostalgic",
+                "streamLink": "https://github.com/TheByteVault/ZCByteVault/raw/main/Music/playlists/MinecraftRadio/MiceOnVenusbutmakeitEXTRAnostalgicv1wMBrkUEFE.m4a"
+            },
+            {
+                "author": "AquaSkye",
+                "source": "https://www.youtube.com/watch?v=n9KjA471Y3k",
+                "title": "sweden by c418 except it's kind of sad and very nostalgic",
+                "streamLink": "https://github.com/TheByteVault/ZCByteVault/raw/main/Music/playlists/MinecraftRadio/swedenbyc418exceptitskindofsadandverynostalgicn9KjA471Y3k.m4a"
+            },
+            {
+                "author": "AquaSkye",
+                "source": "https://www.youtube.com/watch?v=QLsBLxvcqBs",
+                "title": "subwoofer lullaby by c418 except it's kind of sad and very nostalgic",
+                "streamLink": "https://github.com/TheByteVault/ZCByteVault/raw/main/Music/playlists/MinecraftRadio/subwooferlullabybyc418exceptitskindofsadandverynostalgicQLsBLxvcqBs.m4a"
+            },
+            {
+                "author": "AquaSkye",
+                "source": "https://www.youtube.com/watch?v=m4sx9I7R9S4",
+                "title": "mice on venus by c418 except it's kind of sad and very nostalgic",
+                "streamLink": "https://github.com/TheByteVault/ZCByteVault/raw/main/Music/playlists/MinecraftRadio/miceonvenusbyc418exceptitskindofsadandverynostalgicm4sx9I7R9S4.m4a"
+            },
+            {
+                "author": "AquaSkye",
+                "source": "https://www.youtube.com/watch?v=6K-btARx0kI",
+                "title": "wet hands by c418 except it's kind of sad and very nostalgic",
+                "streamLink": "https://github.com/TheByteVault/ZCByteVault/raw/main/Music/playlists/MinecraftRadio/wethandsbyc418exceptitskindofsadandverynostalgic6KbtARx0kI.m4a"
+            },
+            {
+                "author": "AquaSkye",
+                "source": "https://www.youtube.com/watch?v=tZIzB2iiKIw",
+                "title": "living mice by c418 except it's kind of sad and very nostalgic",
+                "streamLink": "https://github.com/TheByteVault/ZCByteVault/raw/main/Music/playlists/MinecraftRadio/livingmicebyc418exceptitskindofsadandverynostalgictZIzB2iiKIw.m4a"
             }
         ]
     },
     {
-        "name": "test22025",
+        "name": "Outer Wilds Radio",
         "songs": [
             {
-                "author": "Kumi Tanioka - Topic",
-                "source": "https://www.youtube.com/watch?v=k79dMVVmvA8",
-                "title": "Comforting Memories",
-                "streamLink": "https://github.com/TheByteVault/ZCByteVault/raw/main/Music/playlists/test22025/ComfortingMemoriesk79dMVVmvA8.m4a"
+                "author": "Julian117",
+                "source": "https://www.youtube.com/watch?v=36JtMdp70h0",
+                "title": "Outer Wilds Original Soundtrack #01 - Timber Hearth",
+                "streamLink": "https://github.com/TheByteVault/ZCByteVault/raw/main/Music/playlists/OuterWildsRadio/OuterWildsOriginalSoundtrack01TimberHearth36JtMdp70h0.m4a"
+            },
+            {
+                "author": "Julian117",
+                "source": "https://www.youtube.com/watch?v=EPi25G4FonY",
+                "title": "Outer Wilds Original Soundtrack #02 - Outer Wilds",
+                "streamLink": "https://github.com/TheByteVault/ZCByteVault/raw/main/Music/playlists/OuterWildsRadio/OuterWildsOriginalSoundtrack02OuterWildsEPi25G4FonY.m4a"
+            },
+            {
+                "author": "Julian117",
+                "source": "https://www.youtube.com/watch?v=ZJqpy4iAm5Y",
+                "title": "Outer Wilds Original Soundtrack #03 - The Museum",
+                "streamLink": "https://github.com/TheByteVault/ZCByteVault/raw/main/Music/playlists/OuterWildsRadio/OuterWildsOriginalSoundtrack03TheMuseumZJqpy4iAm5Y.m4a"
+            },
+            {
+                "author": "Julian117",
+                "source": "https://www.youtube.com/watch?v=C59AUL804WQ",
+                "title": "Outer Wilds Original Soundtrack #04 - Space",
+                "streamLink": "https://github.com/TheByteVault/ZCByteVault/raw/main/Music/playlists/OuterWildsRadio/OuterWildsOriginalSoundtrack04SpaceC59AUL804WQ.m4a"
+            },
+            {
+                "author": "Julian117",
+                "source": "https://www.youtube.com/watch?v=sDKVCqq22wY",
+                "title": "Outer Wilds Original Soundtrack #05 - Castaways",
+                "streamLink": "https://github.com/TheByteVault/ZCByteVault/raw/main/Music/playlists/OuterWildsRadio/OuterWildsOriginalSoundtrack05CastawayssDKVCqq22wY.m4a"
+            },
+            {
+                "author": "Julian117",
+                "source": "https://www.youtube.com/watch?v=1-7CBl_sdJ8",
+                "title": "Outer Wilds Original Soundtrack #06 - The Sun Station",
+                "streamLink": "https://github.com/TheByteVault/ZCByteVault/raw/main/Music/playlists/OuterWildsRadio/OuterWildsOriginalSoundtrack06TheSunStation17CBlsdJ8.m4a"
+            },
+            {
+                "author": "Julian117",
+                "source": "https://www.youtube.com/watch?v=K0NWCrn5l5A",
+                "title": "Outer Wilds Original Soundtrack #07 - Main Title",
+                "streamLink": "https://github.com/TheByteVault/ZCByteVault/raw/main/Music/playlists/OuterWildsRadio/OuterWildsOriginalSoundtrack07MainTitleK0NWCrn5l5A.m4a"
+            },
+            {
+                "author": "Julian117",
+                "source": "https://www.youtube.com/watch?v=7auv-8TtZlM",
+                "title": "Outer Wilds Original Soundtrack #08 - The Search",
+                "streamLink": "https://github.com/TheByteVault/ZCByteVault/raw/main/Music/playlists/OuterWildsRadio/OuterWildsOriginalSoundtrack08TheSearch7auv8TtZlM.m4a"
+            },
+            {
+                "author": "Julian117",
+                "source": "https://www.youtube.com/watch?v=WVGlXbApOCs",
+                "title": "Outer Wilds Original Soundtrack #10 - End Times",
+                "streamLink": "https://github.com/TheByteVault/ZCByteVault/raw/main/Music/playlists/OuterWildsRadio/OuterWildsOriginalSoundtrack10EndTimesWVGlXbApOCs.m4a"
+            },
+            {
+                "author": "Julian117",
+                "source": "https://www.youtube.com/watch?v=zHm-GAuy8CI",
+                "title": "Outer Wilds Original Soundtrack #12 - The Nomai",
+                "streamLink": "https://github.com/TheByteVault/ZCByteVault/raw/main/Music/playlists/OuterWildsRadio/OuterWildsOriginalSoundtrack12TheNomaizHmGAuy8CI.m4a"
+            },
+            {
+                "author": "Julian117",
+                "source": "https://www.youtube.com/watch?v=g3D6Jt-5FZE",
+                "title": "Outer Wilds Original Soundtrack #13 - The Ash Twin Project",
+                "streamLink": "https://github.com/TheByteVault/ZCByteVault/raw/main/Music/playlists/OuterWildsRadio/OuterWildsOriginalSoundtrack13TheAshTwinProjectg3D6Jt5FZE.m4a"
+            },
+            {
+                "author": "Julian117",
+                "source": "https://www.youtube.com/watch?v=XfB91VCpoqc",
+                "title": "Outer Wilds Original Soundtrack #17 - Final Voyage",
+                "streamLink": "https://github.com/TheByteVault/ZCByteVault/raw/main/Music/playlists/OuterWildsRadio/OuterWildsOriginalSoundtrack17FinalVoyageXfB91VCpoqc.m4a"
+            },
+            {
+                "author": "Julian117",
+                "source": "https://www.youtube.com/watch?v=ZwIWC9fCCFc",
+                "title": "Outer Wilds Original Soundtrack #18 - The Ancient Glade",
+                "streamLink": "https://github.com/TheByteVault/ZCByteVault/raw/main/Music/playlists/OuterWildsRadio/OuterWildsOriginalSoundtrack18TheAncientGladeZwIWC9fCCFc.m4a"
+            },
+            {
+                "author": "Julian117",
+                "source": "https://www.youtube.com/watch?v=2RJtvhippL0",
+                "title": "Outer Wilds Original Soundtrack #20 - Travelers",
+                "streamLink": "https://github.com/TheByteVault/ZCByteVault/raw/main/Music/playlists/OuterWildsRadio/OuterWildsOriginalSoundtrack20Travelers2RJtvhippL0.m4a"
+            },
+            {
+                "author": "Julian117",
+                "source": "https://www.youtube.com/watch?v=2ClIzfvpv54",
+                "title": "Outer Wilds Original Soundtrack #21 - Let There Be Light",
+                "streamLink": "https://github.com/TheByteVault/ZCByteVault/raw/main/Music/playlists/OuterWildsRadio/OuterWildsOriginalSoundtrack21LetThereBeLight2ClIzfvpv54.m4a"
+            },
+            {
+                "author": "Julian117",
+                "source": "https://www.youtube.com/watch?v=K1R9NA-cseY",
+                "title": "Outer Wilds Original Soundtrack #22 - 14.3 Billion Years (Credits)",
+                "streamLink": "https://github.com/TheByteVault/ZCByteVault/raw/main/Music/playlists/OuterWildsRadio/OuterWildsOriginalSoundtrack22143BillionYearsCreditsK1R9NAcseY.m4a"
+            },
+            {
+                "author": "Julian117",
+                "source": "https://www.youtube.com/watch?v=ok8GTVpq-5s",
+                "title": "Outer Wilds Original Soundtrack #23 - Morning",
+                "streamLink": "https://github.com/TheByteVault/ZCByteVault/raw/main/Music/playlists/OuterWildsRadio/OuterWildsOriginalSoundtrack23Morningok8GTVpq5s.m4a"
+            },
+            {
+                "author": "Julian117",
+                "source": "https://www.youtube.com/watch?v=IJTbflaNnAM",
+                "title": "Outer Wilds Original Soundtrack #24 - Campfire Song",
+                "streamLink": "https://github.com/TheByteVault/ZCByteVault/raw/main/Music/playlists/OuterWildsRadio/OuterWildsOriginalSoundtrack24CampfireSongIJTbflaNnAM.m4a"
+            },
+            {
+                "author": "Julian117",
+                "source": "https://www.youtube.com/watch?v=EaEysHtlItk",
+                "title": "Outer Wilds Original Soundtrack #25 - Into the Wilds",
+                "streamLink": "https://github.com/TheByteVault/ZCByteVault/raw/main/Music/playlists/OuterWildsRadio/OuterWildsOriginalSoundtrack25IntotheWildsEaEysHtlItk.m4a"
+            },
+            {
+                "author": "Julian117",
+                "source": "https://www.youtube.com/watch?v=wCLyu4OdBj4",
+                "title": "Outer Wilds Original Soundtrack #26 - Arrow of Time",
+                "streamLink": "https://github.com/TheByteVault/ZCByteVault/raw/main/Music/playlists/OuterWildsRadio/OuterWildsOriginalSoundtrack26ArrowofTimewCLyu4OdBj4.m4a"
+            },
+            {
+                "author": "Julian117",
+                "source": "https://www.youtube.com/watch?v=AynJaDlAKHY",
+                "title": "Outer Wilds Original Soundtrack #27 - We Have Liftoff",
+                "streamLink": "https://github.com/TheByteVault/ZCByteVault/raw/main/Music/playlists/OuterWildsRadio/OuterWildsOriginalSoundtrack27WeHaveLiftoffAynJaDlAKHY.m4a"
+            }
+        ]
+    },
+    {
+        "name": "Before Your Eyes Radio",
+        "songs": [
+            {
+                "author": "GoodbyeWorld Games",
+                "source": "https://www.youtube.com/watch?v=NMUhkxMC3zk",
+                "title": "Before Your Eyes OST - Bay",
+                "streamLink": "https://github.com/TheByteVault/ZCByteVault/raw/main/Music/playlists/BeforeYourEyesRadio/BeforeYourEyesOSTBayNMUhkxMC3zk.m4a"
+            },
+            {
+                "author": "GoodbyeWorld Games",
+                "source": "https://www.youtube.com/watch?v=hJBqcy62HaM",
+                "title": "Before Your Eyes OST - Elle's Melody",
+                "streamLink": "https://github.com/TheByteVault/ZCByteVault/raw/main/Music/playlists/BeforeYourEyesRadio/BeforeYourEyesOSTEllesMelodyhJBqcy62HaM.m4a"
+            },
+            {
+                "author": "GoodbyeWorld Games",
+                "source": "https://www.youtube.com/watch?v=MsjgOBP6B1E",
+                "title": "Before Your Eyes OST - Sea of Souls",
+                "streamLink": "https://github.com/TheByteVault/ZCByteVault/raw/main/Music/playlists/BeforeYourEyesRadio/BeforeYourEyesOSTSeaofSoulsMsjgOBP6B1E.m4a"
+            },
+            {
+                "author": "GoodbyeWorld Games",
+                "source": "https://www.youtube.com/watch?v=X6JvmQ9tk44",
+                "title": "Before Your Eyes OST - Slipping Away",
+                "streamLink": "https://github.com/TheByteVault/ZCByteVault/raw/main/Music/playlists/BeforeYourEyesRadio/BeforeYourEyesOSTSlippingAwayX6JvmQ9tk44.m4a"
+            },
+            {
+                "author": "GoodbyeWorld Games",
+                "source": "https://www.youtube.com/watch?v=E37dj-9lQDo",
+                "title": "Before Your Eyes OST - Metronome",
+                "streamLink": "https://github.com/TheByteVault/ZCByteVault/raw/main/Music/playlists/BeforeYourEyesRadio/BeforeYourEyesOSTMetronomeE37dj9lQDo.m4a"
+            },
+            {
+                "author": "GoodbyeWorld Games",
+                "source": "https://www.youtube.com/watch?v=VpFI0V1au08",
+                "title": "Before Your Eyes OST - The Backyard",
+                "streamLink": "https://github.com/TheByteVault/ZCByteVault/raw/main/Music/playlists/BeforeYourEyesRadio/BeforeYourEyesOSTTheBackyardVpFI0V1au08.m4a"
+            },
+            {
+                "author": "GoodbyeWorld Games",
+                "source": "https://www.youtube.com/watch?v=ccSJ6-HVmuk",
+                "title": "Before Your Eyes OST - The Bedroom",
+                "streamLink": "https://github.com/TheByteVault/ZCByteVault/raw/main/Music/playlists/BeforeYourEyesRadio/BeforeYourEyesOSTTheBedroomccSJ6HVmuk.m4a"
+            },
+            {
+                "author": "GoodbyeWorld Games",
+                "source": "https://www.youtube.com/watch?v=poXS1r7gaIU",
+                "title": "Before Your Eyes OST - Stay Here",
+                "streamLink": "https://github.com/TheByteVault/ZCByteVault/raw/main/Music/playlists/BeforeYourEyesRadio/BeforeYourEyesOSTStayHerepoXS1r7gaIU.m4a"
+            },
+            {
+                "author": "GoodbyeWorld Games",
+                "source": "https://www.youtube.com/watch?v=7rDq9kEpoC8",
+                "title": "Before Your Eyes OST - Striving",
+                "streamLink": "https://github.com/TheByteVault/ZCByteVault/raw/main/Music/playlists/BeforeYourEyesRadio/BeforeYourEyesOSTStriving7rDq9kEpoC8.m4a"
+            },
+            {
+                "author": "GoodbyeWorld Games",
+                "source": "https://www.youtube.com/watch?v=pLmkvY7jTrI",
+                "title": "Before Your Eyes OST - Elle's Reprise",
+                "streamLink": "https://github.com/TheByteVault/ZCByteVault/raw/main/Music/playlists/BeforeYourEyesRadio/BeforeYourEyesOSTEllesReprisepLmkvY7jTrI.m4a"
+            },
+            {
+                "author": "GoodbyeWorld Games",
+                "source": "https://www.youtube.com/watch?v=fQUiVhsYHqw",
+                "title": "Before Your Eyes OST - The Ferryman's Search",
+                "streamLink": "https://github.com/TheByteVault/ZCByteVault/raw/main/Music/playlists/BeforeYourEyesRadio/BeforeYourEyesOSTTheFerrymansSearchfQUiVhsYHqw.m4a"
+            },
+            {
+                "author": "GoodbyeWorld Games",
+                "source": "https://www.youtube.com/watch?v=11pH_IhFau4",
+                "title": "Before Your Eyes OST - The Truth",
+                "streamLink": "https://github.com/TheByteVault/ZCByteVault/raw/main/Music/playlists/BeforeYourEyesRadio/BeforeYourEyesOSTTheTruth11pHIhFau4.m4a"
+            },
+            {
+                "author": "GoodbyeWorld Games",
+                "source": "https://www.youtube.com/watch?v=Kn53QOnK0p8",
+                "title": "Before Your Eyes OST - Scan",
+                "streamLink": "https://github.com/TheByteVault/ZCByteVault/raw/main/Music/playlists/BeforeYourEyesRadio/BeforeYourEyesOSTScanKn53QOnK0p8.m4a"
+            },
+            {
+                "author": "GoodbyeWorld Games",
+                "source": "https://www.youtube.com/watch?v=-qgsN2yMtA8",
+                "title": "Before Your Eyes OST - A Year Inside",
+                "streamLink": "https://github.com/TheByteVault/ZCByteVault/raw/main/Music/playlists/BeforeYourEyesRadio/BeforeYourEyesOSTAYearInsideqgsN2yMtA8.m4a"
+            },
+            {
+                "author": "GoodbyeWorld Games",
+                "source": "https://www.youtube.com/watch?v=f6UZ1gjy8w0",
+                "title": "Before Your Eyes OST - Stray",
+                "streamLink": "https://github.com/TheByteVault/ZCByteVault/raw/main/Music/playlists/BeforeYourEyesRadio/BeforeYourEyesOSTStrayf6UZ1gjy8w0.m4a"
+            },
+            {
+                "author": "GoodbyeWorld Games",
+                "source": "https://www.youtube.com/watch?v=gWomSaNxFE4",
+                "title": "Before Your Eyes OST - The Gatekeeper's Domain",
+                "streamLink": "https://github.com/TheByteVault/ZCByteVault/raw/main/Music/playlists/BeforeYourEyesRadio/BeforeYourEyesOSTTheGatekeepersDomaingWomSaNxFE4.m4a"
+            },
+            {
+                "author": "GoodbyeWorld Games",
+                "source": "https://www.youtube.com/watch?v=I-E_HZiS8aQ",
+                "title": "Before Your Eyes OST - A Full Life",
+                "streamLink": "https://github.com/TheByteVault/ZCByteVault/raw/main/Music/playlists/BeforeYourEyesRadio/BeforeYourEyesOSTAFullLifeIEHZiS8aQ.m4a"
             }
         ]
     }
