@@ -1,0 +1,28 @@
+{
+    "playlists": [
+        {
+            "name": "Melancholic Radio",
+            "id": "PLleY9vT8KgEhVuu7aZxcXqhNE5P8FO4Lb",
+            "songs": [
+                {
+                    "author": "nowt - Topic",
+                    "id": "tLhyC7eYvXk",
+                    "title": "time slows down",
+                    "streamLink": "https://github.com/TheByteVault/ZCByteVault/raw/main/Music/playlists/MelancholicRadio/timeslowsdowntLhyC7eYvXk.m4a"
+                },
+                {
+                    "author": "Epic Music World",
+                    "id": "jDaqv2MholA",
+                    "title": "\"WHO WILL HELP ME CARRY HIM\" by Dan Thiessen \u2022 World's Most Emotional Music",
+                    "streamLink": "https://github.com/TheByteVault/ZCByteVault/raw/main/Music/playlists/MelancholicRadio/WHOWILLHELPMECARRYHIMbyDanThiessenWorldsMostEmotionalMusicjDaqv2MholA.m4a"
+                },
+                {
+                    "author": "Epic Music World",
+                    "id": "T17Bl1R0OZk",
+                    "title": "\"TELL HER I WASN'T SCARED\" by Dan Thiessen \u2022 Hear Emotional Music With Me (on Spotify & Apple ...)",
+                    "streamLink": "https://github.com/TheByteVault/ZCByteVault/raw/main/Music/playlists/MelancholicRadio/TELLHERIWASNTSCAREDbyDanThiessenHearEmotionalMusicWithMeonSpotifyAppleT17Bl1R0OZk.m4a"
+                }
+            ]
+        }
+    ]
+}
