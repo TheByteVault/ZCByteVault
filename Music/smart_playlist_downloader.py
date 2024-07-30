@@ -222,5 +222,8 @@ if __name__ == "__main__":
         download_playlist(playlist_url, radio)
 
         print(radio.to_dict())
+        
+    
+    
     save_radio_to_json(radio, radio_json_path)
 
