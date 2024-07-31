@@ -117,7 +117,7 @@ class Radio:
         return cls(
             playlists=playlists)
     
-def save_radio_to_json(radio: Radio, filename: str):
+def save_radio_to_json(radio: Radio, filename: str = "ZCByteVault/Music/playlists/radio.json"):
     try:
         with open(filename, 'w', encoding='utf-8') as f:
             json.dump(radio.to_dict(), f, indent=4)
@@ -203,13 +203,12 @@ def download_playlist(playlist_url: str, radio: Radio):
 
         output_folder = create_folder_for_playlist(sanitized_playlist_title)
         
-        song_list = []
         for entry in info.get('entries', []):
             if not temp_playlist.contains_song(entry['id']):
                 video_url = f"https://www.youtube.com/watch?v={entry['id']}"
                 song = download_song(video_url, output_folder, sanitized_playlist_title)
-                song_list.append(song)
-        temp_playlist.add_songs(song_list)
+                temp_playlist.add_song(song)
+                save_radio_to_json(radio) # Save radio each time a song is downloaded so that when a download fails we don't need to manually delete all the songs that were downloaded since they were never saved to json
     
 
 if __name__ == "__main__":
@@ -223,7 +222,5 @@ if __name__ == "__main__":
 
         print(radio.to_dict())
         
-    
-    
     save_radio_to_json(radio, radio_json_path)
 
