@@ -162,12 +162,13 @@ def download_song(video_url: str, output_folder, output_folder_name, output_form
         unsanitized_video_title = info.get('title', 'unknown')
         sanitized_video_title = sanitize_filename(info.get('title', 'unknown'))
         channel_name = info.get('uploader', 'unknown')
-        video_id = sanitize_filename(info.get('id', 'unknown'))  # This video id will be used to append to the song, just so the song title is always unique
+        unsanitized_video_id = info.get('id', 'unknown')  # This video id will be used to append to the song, just so the song title is always unique
+        sanitized_video_id = sanitize_filename(unsanitized_video_id)  # This video id will be used to append to the song, just so the song title is always unique
 
-        streamLink = f'https://github.com/TheByteVault/ZCByteVault/raw/main/Music/playlists/{output_folder_name}/{sanitized_video_title}{video_id}.m4a'
-        song = Song(channel_name, streamLink, unsanitized_video_title, video_id)
+        streamLink = f'https://github.com/TheByteVault/ZCByteVault/raw/main/Music/playlists/{output_folder_name}/{sanitized_video_title}{sanitized_video_id}.m4a'
+        song = Song(channel_name, streamLink, unsanitized_video_title, unsanitized_video_title)
 
-        ydl_opts['outtmpl'] = os.path.join(output_folder, f'{sanitized_video_title}{video_id}.%(ext)s')
+        ydl_opts['outtmpl'] = os.path.join(output_folder, f'{sanitized_video_title}{sanitized_video_id}.%(ext)s')
 
         with yt_dlp.YoutubeDL(ydl_opts) as ydl:
             ydl.download([video_url])
