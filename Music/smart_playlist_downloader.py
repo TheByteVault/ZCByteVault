@@ -166,7 +166,7 @@ def download_song(video_url: str, output_folder, output_folder_name, output_form
         sanitized_video_id = sanitize_filename(unsanitized_video_id)  # This video id will be used to append to the song, just so the song title is always unique
 
         streamLink = f'https://github.com/TheByteVault/ZCByteVault/raw/main/Music/playlists/{output_folder_name}/{sanitized_video_title}{sanitized_video_id}.m4a'
-        song = Song(channel_name, streamLink, unsanitized_video_title, unsanitized_video_title)
+        song = Song(channel_name, streamLink, unsanitized_video_title, unsanitized_video_id)
 
         ydl_opts['outtmpl'] = os.path.join(output_folder, f'{sanitized_video_title}{sanitized_video_id}.%(ext)s')
 
