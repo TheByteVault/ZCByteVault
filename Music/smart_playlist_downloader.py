@@ -1,5 +1,6 @@
 import json
 import os
+import sys
 from typing import Dict, List
 import yt_dlp
 import re
@@ -207,9 +208,16 @@ def download_playlist(playlist_url: str, radio: Radio):
         for entry in info.get('entries', []):
             if not temp_playlist.contains_song(entry['id']):
                 video_url = f"https://www.youtube.com/watch?v={entry['id']}"
-                song = download_song(video_url, output_folder, sanitized_playlist_title)
-                temp_playlist.add_song(song)
-                save_radio_to_json(radio) # Save radio each time a song is downloaded so that when a download fails we don't need to manually delete all the songs that were downloaded since they were never saved to json
+                try:
+                    song = download_song(video_url, output_folder, sanitized_playlist_title)
+                    temp_playlist.add_song(song)
+                    save_radio_to_json(radio) # Save radio each time a song is downloaded so that when a download fails we don't need to manually delete all the songs that were downloaded since they were never saved to json
+                except Exception as e:
+                    if ("Video unavailable. This video is not available" in str(e)):
+                        print("Video is unavailable ")
+                    else:
+                        print("An error occurred:", e)
+                        sys.exit(1)  # Exit code 1 indicates an error
     
 
 if __name__ == "__main__":
